@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.MainPage.xaml", "MainPage.xaml", typeof(global::IoT4SIK.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.HomeGerencia.xaml", "HomeGerencia.xaml", typeof(global::IoT4SIK.HomeGerencia))]
 
 namespace IoT4SIK {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("HomeGerencia.xaml")]
+    public partial class HomeGerencia : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(HomeGerencia));
         }
     }
 }

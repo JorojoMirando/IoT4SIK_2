@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IoT4SIK.HomeGerencia">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="CornflowerBlue" >
+                <Label TextColor="GhostWhite"  Text="Smart Industrial Kitchen - Home Gerente"/>
+            </Frame>
+
+            <Frame BackgroundColor="GhostWhite" Margin="0,0,0,-10" >
+                <Label TextColor="DarkBlue" FontSize="18"  Text="Consumos - Tempo de uso"/>
+            </Frame>
+
+
+            <Label TextColor="ForestGreen" Text="Período" Margin="9,0,0,0"/>
+            <StackLayout Orientation="Horizontal" Margin="0,0,0,-10">
+                <Label TextColor="Black" Text="Inicio" Margin="12,10,5,0"/>
+                <DatePicker Margin="12,0,0,0" BackgroundColor="GhostWhite"></DatePicker>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="0,0,0,10">
+                <Label TextColor="Black" Text="Fim" Margin="12,10,15,0"/>
+                <DatePicker Margin="12,0,0,0" BackgroundColor="GhostWhite"></DatePicker>
+            </StackLayout>
+
+
+            <Label TextColor="ForestGreen" Text="Consumos" Margin="9,0,0,0"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.9*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.2*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Grid.Column="0" Grid.Row="0" TextColor="Black"  Text="Energia" Margin="12,0,0,-10"/>
+                <ProgressBar Grid.Column="0" Grid.Row="1" Margin="12,0,12,15"
+                             IsVisible="true" BackgroundColor="White" Progress="0.75">
+                </ProgressBar>
+                <Label Grid.Column="1" Grid.Row="1" TextColor="DarkBlue"  Text="75%" Margin="12,0,12,0"/>
+
+                <Label Grid.Column="0" Grid.Row="2" TextColor="Black"  Text="Água" Margin="12,0,12,0"/>
+                <ProgressBar Grid.Column="0" Grid.Row="3" Margin="12,0,12,15"
+                    IsVisible="true" BackgroundColor="White" Progress="0.6">
+                </ProgressBar>
+                <Label Grid.Column="1" Grid.Row="3" TextColor="DarkBlue"  Text="60%" Margin="12,0,12,0"/>
+
+                <Label Grid.Column="0" Grid.Row="4" TextColor="Black"  Text="Gás" Margin="12,0,12,0"/>
+                <ProgressBar Grid.Column="0" Grid.Row="5" Margin="12,0,12,15"
+                    IsVisible="true" BackgroundColor="White" Progress="0.3" >
+                </ProgressBar>
+                <Label Grid.Column="1" Grid.Row="5" TextColor="DarkBlue"  Text="30%" Margin="12,0,12,0"/>
+            </Grid>
+
+
+            <Label TextColor="ForestGreen" Text="Equipamentos" Margin="9,0,0,0"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.4*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.1*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.4*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <CheckBox Grid.Column="0" Grid.Row="0"></CheckBox>
+                <Label Grid.Column="1" Grid.Row="0" 
+                       TextColor="DarkBlue"  Text="Refrigerador 1" Margin="0,5,0,0"/>
+                <CheckBox Grid.Column="2" Grid.Row="0"></CheckBox>
+                <Label Grid.Column="3" Grid.Row="0" 
+                       TextColor="DarkBlue"  Text="Refrigerador 2" Margin="0,5,0,0"/>
+
+                <CheckBox Grid.Column="0" Grid.Row="1"></CheckBox>
+                <Label Grid.Column="1" Grid.Row="1" 
+                       TextColor="DarkBlue"  Text="Forno elétrico 1" Margin="0,5,0,0"/>
+                <CheckBox Grid.Column="2" Grid.Row="1"></CheckBox>
+                <Label Grid.Column="3" Grid.Row="1" 
+                       TextColor="DarkBlue"  Text="Forno elétrico 2" Margin="0,5,0,0"/>
+
+                <CheckBox Grid.Column="0" Grid.Row="2"></CheckBox>
+                <Label Grid.Column="1" Grid.Row="2" 
+                       TextColor="DarkBlue"  Text="Refrigerador 1" Margin="0,5,0,0"/>
+                <CheckBox Grid.Column="2" Grid.Row="2"></CheckBox>
+                <Label Grid.Column="3" Grid.Row="2" 
+                       TextColor="DarkBlue"  Text="Coifa 1" Margin="0,5,0,0"/>
+            </Grid>
+
+
+
+
+
+
+
+
+
+            <!--<RadioButton Text="Diário" IsChecked="true" 
+                         Margin="0,0,0,0" BackgroundColor="GhostWhite">
+            </RadioButton>
+            <RadioButton Text="Semanal" IsChecked="false" 
+                         Margin="0,0,0,0" BackgroundColor="GhostWhite">
+            </RadioButton>
+            <RadioButton Text="Mensal" IsChecked="false" 
+                         Margin="0,0,0,0" BackgroundColor="GhostWhite">
+            </RadioButton>
+            <RadioButton Text="Período" IsChecked="false" 
+                         Margin="0,0,0,0" BackgroundColor="GhostWhite">
+            </RadioButton>-->
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

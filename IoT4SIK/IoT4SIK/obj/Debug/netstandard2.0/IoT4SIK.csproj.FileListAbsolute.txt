@@ -4,7 +4,6 @@ Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\bin\Debug\netstandard2.0\ref\IoT4SIK.dll
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\bin\Debug\netstandard2.0\IoT4SIK.pdb
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.csprojAssemblyReference.cache
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\App.xaml.g.cs
-Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.AssemblyInfoInputs.cache
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.AssemblyInfo.cs
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.csproj.CoreCompileInputs.cache
@@ -12,3 +11,5 @@ Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\XamlC.stamp
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.dll
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\ref\IoT4SIK.dll
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.pdb
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\HomeGerencia.xaml.g.cs
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\Login.xaml.g.cs

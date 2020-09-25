@@ -8,11 +8,16 @@ using Xamarin.Forms;
 
 namespace IoT4SIK
 {
-    public partial class MainPage : ContentPage
+    public partial class Login : ContentPage
     {
-        public MainPage()
+        public Login()
         {
             InitializeComponent();
+        }
+
+        private void Log_In_Clicked(object sender, EventArgs e)
+        {
+
         }
     }
 }

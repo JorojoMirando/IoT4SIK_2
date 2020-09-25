@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IoT4SIK.Login">
+    <StackLayout>
+        <Frame BackgroundColor="CornflowerBlue">
+            <Label TextColor="GhostWhite"  Text="Smart Industrial Kitchen - Login"/>
+        </Frame>
+        <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <Entry Grid.Column="0" Grid.Row="0" x:Name="User" Placeholder="Username or Email" Margin="20,0,20,0"></Entry>
+            <Entry Grid.Column="0" Grid.Row="1" x:Name="Password" Placeholder="Password" IsPassword="True" Margin="20,0,20,0"></Entry>
+
+            <Button Grid.Column="0" Grid.Row="2" x:Name ="Log_In" Clicked="Log_In_Clicked" Text="Log In" Margin="100,0,100,0"></Button>
+        </Grid>
+        
+
+    </StackLayout>
+</ContentPage>
