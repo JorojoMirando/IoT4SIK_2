@@ -8,9 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.View.Login.xaml", "View/Login.xaml", typeof(global::IoT4SIK.Login))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.View.Login.xaml", "View/Login.xaml", typeof(global::IoT4SIK.View.Login))]
 
-namespace IoT4SIK {
+namespace IoT4SIK.View
+{
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Login.xaml")]

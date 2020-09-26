@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "k8zPl5SXBPUy0dA0Z6bLRM4g2kMdoVEd62oduP7N8AKrdUKy2dB8lmbP4lprzZmE8uOYMHda6hiQGmg4Y+RCcg==",
+  "dgSpecHash": "k29RHtmcjRjiV72BZZtBE6lKdPqj3KfTXY/ad+M9Ma/0gniW9MfoHMtf4itw4uEN6OJ5D9++ZPd6uvKDgDTxYQ==",
   "success": true,
   "projectFilePath": "Z:\\IoT4SIK_2\\IoT4SIK\\IoT4SIK\\IoT4SIK.Android\\IoT4SIK.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IEUser\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\IEUser\\.nuget\\packages\\pclext.filestorage\\1.4.1.1\\pclext.filestorage.1.4.1.1.nupkg.sha512",
     "C:\\Users\\IEUser\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\IEUser\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\IEUser\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",

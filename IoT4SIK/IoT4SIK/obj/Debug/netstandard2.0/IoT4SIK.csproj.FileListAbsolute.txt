@@ -11,3 +11,5 @@ Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\ref\IoT4SIK.dll
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.pdb
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\View\HomeGerencia.xaml.g.cs
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\IoT4SIK.csproj.CoreCompileInputs.cache
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK\obj\Debug\netstandard2.0\XamlC.stamp

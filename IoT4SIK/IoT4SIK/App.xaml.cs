@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IoT4SIK.View;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.View.HomeGerencia.xaml", "View/HomeGerencia.xaml", typeof(global::IoT4SIK.HomeGerencia))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.View.HomeGerencia.xaml", "View/HomeGerencia.xaml", typeof(global::IoT4SIK.View.HomeGerencia))]
 
-namespace IoT4SIK {
+namespace IoT4SIK.View {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\HomeGerencia.xaml")]

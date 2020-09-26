@@ -463,3 +463,16 @@ Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\stamp\_ConvertResource
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\PCLExt.FileStorage.Abstractions.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\PCLExt.FileStorage.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\SQLite-net.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\System.Buffers.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\System.IO.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\System.Memory.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+Z:\IoT4SIK_2\IoT4SIK\IoT4SIK\IoT4SIK.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll

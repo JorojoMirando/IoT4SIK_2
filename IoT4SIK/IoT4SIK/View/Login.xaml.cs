@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace IoT4SIK
+namespace IoT4SIK.View
 {
     public partial class Login : ContentPage
     {
