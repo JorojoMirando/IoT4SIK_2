@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace IoT4SIK
+namespace IoT4SIK.View
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HomeGerencia : ContentPage

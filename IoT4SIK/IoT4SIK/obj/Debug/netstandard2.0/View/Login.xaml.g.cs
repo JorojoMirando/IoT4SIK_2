@@ -8,12 +8,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.Login.xaml", "Login.xaml", typeof(global::IoT4SIK.Login))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("IoT4SIK.View.Login.xaml", "View/Login.xaml", typeof(global::IoT4SIK.Login))]
 
 namespace IoT4SIK {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Login.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\Login.xaml")]
     public partial class Login : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
